@@ -1,2 +1,2 @@
 # Data_analytic
-my projects around data's
+my projects about Toyota Used Cars to find which column correlates more to the price
