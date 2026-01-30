@@ -1,2 +1,3 @@
 # Data_analytic
-my projects about Toyota Used Cars to find which column correlates more to the price
+my projects about data mining 
+here i compare 5 diffrent model to see which one have the best accuracy
